@@ -1,4 +1,3 @@
-from typing import Dict, Any
 
 Number_of_students = int(input())
 d = {}
